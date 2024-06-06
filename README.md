@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Laboratorio de Computación Cognitiva e Inteligencia Artificial UPIIZ -IPN
 
 This is the website of our academic research group at Leiden University.
 
@@ -7,5 +7,4 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 
-Copyright Allan Lab. Code released under the MIT License.
-
+Copyright AI-UPIIZ Lab. Code released under the MIT License.
