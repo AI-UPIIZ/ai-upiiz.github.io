@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Home"
+title: "AI - UPIIZ"
 layout: homelay
 excerpt: "Allan Lab at Leiden University &rarr; LMU."
 sitemap: false

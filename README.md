@@ -1,4 +1,4 @@
-# Laboratorio de Computación Cognitiva e Inteligencia Artificial UPIIZ -IPN
+# Laboratorio Inteligencia Artificial UPIIZ -IPN
 
 This is the website of our academic research group at Leiden University.
 
